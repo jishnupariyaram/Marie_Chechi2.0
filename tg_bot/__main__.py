@@ -18,31 +18,14 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ഹായ് {}, എന്റെ പേര് {}! എന്നെ ഉപയോഗിക്കേണ്ടത് എങ്ങനെ ആണെന്നുള്ളതിൽ എന്തേലും സംശയം ഉണ്ടെങ്കിൽ /help കൊടുത്താൽ മതിയാകും... 
-
-
-എന്നെ നോക്കി നടത്തുന്നത്  [ഇദ്ദേഹം](http://t.me/jishnu333) ആണ് . എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
-python-telegram-bot library ഉപയോഗിച്ചാണ്....
-എന്നെ ഉപയോഗിക്കാൻ ആവിശ്യമായ commandകൾ അറിയാൻ /help കൊടുത്താൽ മതിയാകും..
-വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
-
-
+ഹായ് Kerala Blasters Army യുടെ ഒഫീഷ്യൽ ടെലഗ്രാം ബോട്ട് ആണ് ഞാൻ.. Kerala Blasters ന്റെയും Kb Army യുടെയും എല്ലാ വിവരങ്ങളും നിങ്ങളിലേക്ക് എത്തിക്കുക എന്നതാണ് എന്റെ ചുമതല.
 
 
 """
 
 HELP_STRINGS = """
-നമസ്കാരം ! എന്റെ പേര് *{}*.
-
-ഞാൻ ടെലെഗ്രാമിലെ Group Management Bot ആണ്... എന്നെ പ്രവർത്തിപ്പിക്കേണ്ട വിധം ആണ് താഴെ കൊടുത്തിട്ടുള്ളത്....
-
-*Main* ലഭ്യമായ commandകൾ:
- - /start: Botനെ Start ചെയ്യാൻ...
- - /help: ഈ മെസ്സേജ് നിങ്ങളുടെ PM വരാൻ....
- - /help <module name>: ഒരു MODULE നെക്കുറിച്ചുള്ള വിവരം നിങ്ങളുടെ PMൽ വരാൻ...
- - /settings:
-   - in PM:നിങ്ങൾ സെറ്റ് ചെയ്തിട്ടുള്ള SETTINGS എന്തൊക്കെ ആണെന്ന് അറിയാൻ....
-   - in a group:ഗ്രൂപ്പിൽ കൊടുത്താലും  PMൽ settings വരുന്നതാണ്....
+ഹായ് Kerala Blasters Army യുടെ ഒഫീഷ്യൽ ടെലഗ്രാം ബോട്ട് ആണ് ഞാൻ.. Kerala Blasters ന്റെയും Kb Army യുടെയും എല്ലാ വിവരങ്ങളും നിങ്ങളിലേക്ക് എത്തിക്കുക എന്നതാണ് എന്റെ ചുമതല.
+..
 
 {}
 And the following:
