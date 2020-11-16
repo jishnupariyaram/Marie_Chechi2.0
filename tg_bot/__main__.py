@@ -18,13 +18,15 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ഹായ് Kerala Blasters Army യുടെ ഒഫീഷ്യൽ ടെലഗ്രാം ബോട്ട് ആണ് ഞാൻ.. Kerala Blasters ന്റെയും Kb Army യുടെയും എല്ലാ വിവരങ്ങളും നിങ്ങളിലേക്ക് എത്തിക്കുക എന്നതാണ് എന്റെ ചുമതല.
+ഹായ് Kerala Blasters Army യുടെ ഒഫീഷ്യൽ ടെലഗ്രാം ബോട്ട് ആണ് ഞാൻ.
+Kerala Blasters ന്റെയും Kb Army യുടെയും എല്ലാ വിവരങ്ങളും നിങ്ങളിലേക്ക് എത്തിക്കുക എന്നതാണ് എന്റെ ചുമതല.
 
 
 """
 
 HELP_STRINGS = """
-ഹായ് Kerala Blasters Army യുടെ ഒഫീഷ്യൽ ടെലഗ്രാം ബോട്ട് ആണ് ഞാൻ.. Kerala Blasters ന്റെയും Kb Army യുടെയും എല്ലാ വിവരങ്ങളും നിങ്ങളിലേക്ക് എത്തിക്കുക എന്നതാണ് എന്റെ ചുമതല.
+ഹായ് Kerala Blasters Army യുടെ ഒഫീഷ്യൽ ടെലഗ്രാം ബോട്ട് ആണ് ഞാൻ. 
+Kerala Blasters ന്റെയും Kb Army യുടെയും എല്ലാ വിവരങ്ങളും നിങ്ങളിലേക്ക് എത്തിക്കുക എന്നതാണ് എന്റെ ചുമതല.
 ..
 
 {}
